@@ -3,8 +3,7 @@
 
 멋쟁이사자처럼 K-Digital Training의 마지막 프로젝트로 4인 1조로 참여
 
-Collaborated with 
-
+Collaborated with [Bill Kim](https://github.com/billkim418), [Heewon Kwon](https://github.com/HeewonKwak), [Titus Choi](https://github.com/TitusChoi)
 
 기상에 따른 산림재해 예측 및 산사태 예측기술 개발, 개선 프로젝트
 
@@ -18,8 +17,10 @@ Collaborated with
 * [기상청 날씨 데이터](https://data.kma.go.kr)
   + 기상 자료 개방 포털의 날씨 데이터 API
 
+
 ## 데이터 설명
 data_explanation: 공공협력분야 데이터 정의서 (xlsx)
+district: 행정 구역 경계 (csv)
 landslide_history: 산사태 발생이력 (csv)
 forest_47_gsbd: 임상도 47 경상북도 (xlsx)
 forest_48_gsnd: 임상도 48 경상남도 (xlsx)
