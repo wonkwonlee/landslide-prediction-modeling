@@ -19,10 +19,10 @@ Collaborated with [Bill Kim](https://github.com/billkim418), [Heewon Kwon](https
 
 
 ## 데이터 설명
-data_explanation: 공공협력분야 데이터 정의서 (xlsx)
-district: 행정 구역 경계 (csv)
-landslide_history: 산사태 발생이력 (csv)
-forest_47_gsbd: 임상도 47 경상북도 (xlsx)
-forest_48_gsnd: 임상도 48 경상남도 (xlsx)
-soil_47_gsbd: 토양도 47 경상북도 (xlsx)
-soil_48_gsnd: 토양도 48 경상남도 (xlsx)
+* data_explanation: 공공협력분야 데이터 정의서 (xlsx)
+* district: 행정 구역 경계 (csv)
+* landslide_history: 산사태 발생이력 (csv)
+* forest_47_gsbd: 임상도 47 경상북도 (xlsx)
+* forest_48_gsnd: 임상도 48 경상남도 (xlsx)
+* soil_47_gsbd: 토양도 47 경상북도 (xlsx)
+* soil_48_gsnd: 토양도 48 경상남도 (xlsx)
