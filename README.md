@@ -25,4 +25,3 @@ forest_47_gsbd: 임상도 47 경상북도 (xlsx)
 forest_48_gsnd: 임상도 48 경상남도 (xlsx)
 soil_47_gsbd: 토양도 47 경상북도 (xlsx)
 soil_48_gsnd: 토양도 48 경상남도 (xlsx)
-
