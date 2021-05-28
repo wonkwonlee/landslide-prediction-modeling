@@ -19,16 +19,16 @@ Collaborated with [Bill Kim](https://github.com/billkim418), [Heewon Kwon](https
 
 
 ## 데이터 설명
-* data_submission/ASOS_final: 크롤링 후 읍면동 정리한 ASOS 데이터 (csv)
-* data_submission/landslide_asos_merged: 산사태 발생이력과 ASOS 데이터를 병합한 데이터 (csv)
-* data_submission/landslide_final: 산사태 발생이력 정리 데이터 (csv)
-
-* data_explanation: 공공협력분야 데이터 정의서 (xlsx)
-* district: 행정 구역 경계 (csv)
-* landslide_history: 산사태 발생이력 (csv)
-* forest_47_1_gsbd: 임상도 47_1 경상북도 (csv)
-* forest_47_2_gsbd: 임상도 47_2 경상북도 (csv)
-* forest_48_1_gsnd: 임상도 48 경상남도 (csv)
-* soil_47_1_gsbd: 토양도 47_1 경상북도 (csv)
-* soil_47_2_gsbd: 토양도 47_2 경상북도 (csv)
-* soil_48_gsnd: 토양도 48 경상남도 (csv)
+- data_submission
+  * ASOS_final: 크롤링 후 읍면동 정리한 ASOS 데이터 (csv)
+  * landslide_asos_merged: 산사태 발생이력과 ASOS 데이터를 병합한 데이터 (csv)
+  * landslide_final: 산사태 발생이력 정리 데이터 (csv)
+- data_raw
+  * district: 행정 구역 경계 (csv)
+  * landslide_history: 산사태 발생이력 (csv)
+  * forest_47_1_gsbd: 임상도 47_1 경상북도 (csv)
+  * forest_47_2_gsbd: 임상도 47_2 경상북도 (csv)
+  * forest_48_1_gsnd: 임상도 48 경상남도 (csv)
+  * soil_47_1_gsbd: 토양도 47_1 경상북도 (csv)
+  * soil_47_2_gsbd: 토양도 47_2 경상북도 (csv)
+  * soil_48_gsnd: 토양도 48 경상남도 (csv)
