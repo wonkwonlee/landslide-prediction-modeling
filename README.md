@@ -32,3 +32,5 @@ Collaborated with [Bill Kim](https://github.com/billkim418), [Heewon Kwon](https
   * soil_47_1_gsbd: 토양도 47_1 경상북도 (csv)
   * soil_47_2_gsbd: 토양도 47_2 경상북도 (csv)
   * soil_48_gsnd: 토양도 48 경상남도 (csv)
+  * META_관측지점정보_ASOS: ASOS 관측 지점의 위치 정보 (csv)
+  * META_관측지점정보_AWS: AWS 관측 지점의 위치 정보 (csv)
