@@ -19,12 +19,12 @@ Collaborated with [Bill Kim](https://github.com/billkim418), [Heewon Kwon](https
 
 
 ## 데이터 설명
-- data_submission
-  * ASOS_final: 크롤링 후 읍면동 정리한 ASOS 데이터 (csv)
-  * AWS_final: 크롤링 후 읍면동 정리한 AWS 데이터 (csv)
+- data_submission: 분석과 모델링을 위해 쓰이는 전처리된 정제 데이터
+  * ASOS_final: 기상청 날씨 데이터를 크롤링하고 읍면동 단위로 정리한 종관기상관측장비 **ASOS** 데이터 (csv)
+  * AWS_final: 기상청 날씨 데이터를 크롤링하고 읍면동 단위로 정리한 방재기상관측장비 **AWS** 데이터 (csv)
   * landslide_asos_merged: 산사태 발생이력과 ASOS 데이터를 병합한 데이터 (csv)
-  * landslide_final: 산사태 발생이력 정리 데이터 (csv)
-- data_raw
+  * landslide_final: 산사태 발생 이력 정리 데이터 (csv)
+- data_raw: 날씨 빅데이터 콘테스트에서 제공되는 기존 데이터 및 크롤링을 통해 구한 원본 데이터
   * district: 행정 구역 경계 (csv)
   * landslide_history: 산사태 발생이력 (csv)
   * forest_47_1_gsbd: 임상도 47_1 경상북도 (csv)
