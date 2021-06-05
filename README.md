@@ -6,7 +6,7 @@
 Collaborated with [Bill Kim](https://github.com/billkim418), [Heewon Kwon](https://github.com/HeewonKwak), [Titus Choi](https://github.com/TitusChoi)
 
 기상에 따른 산림재해 예측 및 산사태 예측기술 개발, 개선 프로젝트
-
+ 
 ## 활용 데이터
 * 산사태 발생 이력
   + 2011년 7월부터 2019년 10월까지의 경상북도, 경상남도 내 산사태 발생 이력
