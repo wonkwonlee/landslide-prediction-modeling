@@ -3,7 +3,7 @@
 
 멋쟁이사자처럼 K-Digital Training의 마지막 프로젝트로 4인 1조로 참여
 
-Collaborated with [Bill Kim](https://github.com/billkim418), [Heewon Kwon](https://github.com/HeewonKwak), [Titus Choi](https://github.com/TitusChoi)
+Collaborated with [Bill Kim](https://github.com/billkim418), [Heewon Kwak](https://github.com/HeewonKwak), [Titus Choi](https://github.com/TitusChoi)
 
 기상에 따른 산림재해 예측 및 산사태 예측기술 개발, 개선 프로젝트
  
