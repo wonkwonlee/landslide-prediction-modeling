@@ -1,5 +1,5 @@
 # 날씨 빅데이터 콘테스트 - 공공협력형
-4월 26일 ~ 6월 28일까지 진행되는 기상청 주최하는 [날씨 빅데이터 콘테스트](https://bd.kma.go.kr/contest/main.do)
+2021년 4월 26일 ~ 7월 2일까지 진행되는 기상청 주최하는 [날씨 빅데이터 콘테스트](https://bd.kma.go.kr/contest/main.do)
 
 멋쟁이사자처럼 K-Digital Training의 마지막 프로젝트로 4인 1조로 참여
 
