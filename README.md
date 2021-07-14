@@ -17,9 +17,9 @@ Collaborated with [Bill Kim](https://github.com/billkim418), [Heewon Kwak](https
 * 산림 공간 정보
   + 경상북도, 경상남도 임상도 및 토양도
 * 행정 구역 경계
-  + 경상북도, 경상남도 읍, 면, 동 지역 구분
+  + 경상북도, 경상남도 읍, 면, 동 단위의 지역 구분
 * [기상청 날씨 데이터](https://data.kma.go.kr)
-  + 기상 자료 개방 포털의 날씨 데이터 API
+  + 기상 자료 개방 포털의 종관기상관측(ASOS) 날씨 데이터
 
 
 ## Data
