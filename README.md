@@ -9,6 +9,8 @@ Collaborated with [Bill Kim](https://github.com/billkim418), [Heewon Kwak](https
 
 기상에 따른 산림재해 예측 및 산사태 예측 기술 개발, 개선 프로젝트
 
+최종 6위 수상
+
 [최종 공모안](submission.pdf)
  
 ## 활용 데이터
